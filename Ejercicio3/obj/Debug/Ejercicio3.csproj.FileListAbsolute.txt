@@ -5,3 +5,10 @@ C:\Users\juanp\source\repos\Ejercicios2DOcuatrimestre\Ejercicio3\obj\Debug\Ejerc
 C:\Users\juanp\source\repos\Ejercicios2DOcuatrimestre\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
 C:\Users\juanp\source\repos\Ejercicios2DOcuatrimestre\Ejercicio3\obj\Debug\Ejercicio3.exe
 C:\Users\juanp\source\repos\Ejercicios2DOcuatrimestre\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\juanp\Desktop\ejercicios2DOcuatrimestre\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\juanp\Desktop\ejercicios2DOcuatrimestre\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\juanp\Desktop\ejercicios2DOcuatrimestre\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\juanp\Desktop\ejercicios2DOcuatrimestre\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+C:\Users\juanp\Desktop\ejercicios2DOcuatrimestre\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Desktop\ejercicios2DOcuatrimestre\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\juanp\Desktop\ejercicios2DOcuatrimestre\Ejercicio3\obj\Debug\Ejercicio3.pdb
